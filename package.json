@@ -1,0 +1,16 @@
+{
+  "name": "1ra-entrega-back-end-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./main.js"
+  },
+  "author": "GianPaoloChesani",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}

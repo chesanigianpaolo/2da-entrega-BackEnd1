@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Gamer",
+    "description": "Laptop potente para gaming",
+    "code": "LAP123",
+    "price": 1500,
+    "status": true,
+    "stock": 10,
+    "category": "Tecnología",
+    "thumbnails": ["images/laptop1.jpg", "images/laptop2.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Teclado Mecánico",
+    "description": "Teclado mecánico RGB",
+    "code": "KEYB456",
+    "price": 100,
+    "status": true,
+    "stock": 20,
+    "category": "Accesorios",
+    "thumbnails": ["images/teclado1.jpg"]
+  }
+]
